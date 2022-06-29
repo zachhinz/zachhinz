@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zachhinz. I'm a current sophomore at Pomona College double majoring in CS and Mathematics. 
+- 👋 Hi, I’m @zachhinz. I'm a current junior at Pomona College double majoring in CS and Mathematics. 
 - 👀 I’m interested in pursuing a career in software engineering. 
 - 📫 You can contact me at my email: zcha2020@mymail.pomona.edu
 - My online home base is currently here: https://zachhinz.pages.dev/
